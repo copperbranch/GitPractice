@@ -5,3 +5,4 @@ January 17th, 2018
 Readings for my next class:
 Textbook
 Random articles.
+Whatever, just a small change.
